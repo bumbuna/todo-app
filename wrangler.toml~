@@ -1,0 +1,6 @@
+name = "todo-app"
+main = "src/index.js"
+compatibility_date = "2023-04-22"
+kv_namespaces = [
+	{binding="user_db", id="10df16c5bdd54113afcc09bf426cd3cf"}
+]
